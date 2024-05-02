@@ -7,5 +7,5 @@ import { Component, OnInit } from '@angular/core';
   template: `<h1>Hola mundo</h1>`,
 })
 export class UsersLoadersComponent {
-  constructor() {}
+
 }
